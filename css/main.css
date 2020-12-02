@@ -1,0 +1,159 @@
+/* para todos */
+h1{
+    margin:20px;
+}
+
+section{
+    margin-bottom:70px;
+}
+
+h1{
+    color:#fdfdfd;
+    font-family:'Noto Sans JP';
+}
+
+/* section profileId */
+
+.sec_title{
+    background-color: #a80067;
+    padding:2px;
+    margin-right:1030px;
+    border-radius: 0 20px 20px 0;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bio{
+    margin:40px 30px 10px 20px;
+}
+
+.bio h2{
+    margin:30px;
+    font-size:20px;
+}
+
+.bio p{
+    margin-left:30px;
+    margin-right:5px;
+    font-size:18px;
+    padding:2px;
+}
+
+.chart{
+    margin:20px 40px 10px 50px;
+    border: solid #f0bcdc 2px;
+    border-radius:10px;
+}
+
+.chart h2{
+    margin:30px;
+    font-size:20px;
+}
+
+.chart p{
+    margin-left:20px;
+    font-size:18px;
+}
+
+.chart li:before{
+    color:#a80067;
+    content:'✓';
+    margin-right: 5px;
+}
+
+/* section casesId */
+
+#casesId p{
+    margin-left:30px;
+    margin-bottom: 30px;
+}
+
+.cases_item{
+    display:flex;
+    justify-content: space-around;
+    margin:15px 0 15px 0;
+}
+
+.cases_item h2{
+    font-size:20px;
+}
+
+.cases_item p{
+    font-size:18px;
+    padding:2px;
+}
+
+.perc{
+    background-color: #4b0575;
+    padding:50px 30px 50px 30px;
+    color:#f0f0f0
+}
+
+.description_perc{
+    padding:30px;
+    color:#f0f0f0;
+    margin:50px;
+}
+
+#img_perc{
+    margin-left:50px;
+    width: 496px;
+    height:701.6px;
+    border: solid 7px #f0f0f0;
+}
+
+.lej{
+    background-color: #52d2cc;
+    padding:0px 30px 0px 30px;
+    color:#f0f0f0;
+}
+
+.description_lej{
+    padding:30px;
+    color:#f0f0f0;
+    margin:50px;
+}
+
+#img_lejo{
+    margin-left:50px;
+    width:571.2px;
+    height:372px;
+    margin-top: 95px;
+}
+
+.sb{
+    background-color: #fa6328;
+    padding:50px 30px 0px 30px;
+    color:#f0f0f0;
+}
+
+.description_sb{
+    padding:30px;
+    color:#f0f0f0;
+    margin: 16px 50px 0 126px;
+}
+
+#img_app{
+    margin-left: 95px;
+    margin-top: 43px;
+    width:216px;
+    height:384px;
+    border: solid 7px #f0f0f0;
+}
+
+.cases_item a{
+   text-decoration: none;
+   text-transform: uppercase;
+   color:#f0f0f0;
+   border: solid 1px #f0f0f0;
+   padding:15px;
+}
+
+.btn{
+    text-align:center;
+    margin-top: 74px;
+    margin-bottom: 30px;
+}

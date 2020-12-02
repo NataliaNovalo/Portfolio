@@ -1,0 +1,33 @@
+.perception .img{
+    width: 620px;
+    height:877px;
+    margin:20px;
+}
+
+.lejour .img{
+    width: 1285.2px;
+    height:837px;
+    margin-bottom:15px;
+    border: solid 2px #4b0575;
+}
+
+.smartbreak .img{
+    width: 270px;
+    height:480px;
+    margin:20px;
+}
+
+.outros_img{
+    display: flex;
+    justify-content: space-around;
+}
+
+#img_3D1{
+    width:480px;
+    height:270px;
+}
+
+#img_3D2{
+    width:207px;
+    height: 292px;
+}

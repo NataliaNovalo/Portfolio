@@ -1,0 +1,15 @@
+body{
+    font-family: arial, verdana;
+    font-size:18px;
+    color:#000;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+p{
+    line-height: 25px;
+}
+
